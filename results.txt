@@ -1,0 +1,11 @@
+Inverting Amplifier: Vin=2.000, Rin=200.000, Rf=200.000, Av=-1.000, Vout=-2.000
+Non-Inverting Summing Amplifier (6 inputs): Vout=4.000
+Bandwidth and SR: GBW=200.000, Gain=23.000, BW=8.696, f=300.000, Vpeak=5.000, SR=9424.558
+Noise and Tolerance: Vn=0.000000011, ∆Av=1.172774553
+Stability: A0=200.000, wp=34.000, f=200.000, β=0.500, |T|=2.705
+Inverting Amplifier: Vin=5.000, Rin=100.000, Rf=100.000, Av=-1.000, Vout=-5.000
+Non-Inverting Amplifier: Vin=5.000, Rg=100.000, Rf=100.000, Av=2.000, Vout=10.000
+Inverting Sum: (4 inputs): Vout=-47.119
+Bandwidth and SR: GBW=300.000, Gain=8.000, BW=37.500, f=200.000, Vpeak=15.000, SR=18849.115
+Noise and Tolerance: Vn=0.000000011, ∆Av=0.107703298
+Stability: A0=4.000, wp=50.000, f=200.000, β=0.500, |T|=0.080
